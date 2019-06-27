@@ -1,4 +1,4 @@
-These files contain the data and code for "Unleashing the BEAST - a brief measure of human social information use".
+These files contain the data and code for "Unleashing the BEAST - a brief measure of human social information use" by Lucas Molleman, Ralf H.J.M. Kurvers and Wouter van den Bos; Evolution and Human Behaviour (2019).
 
 This folder contains the following documents:
 
