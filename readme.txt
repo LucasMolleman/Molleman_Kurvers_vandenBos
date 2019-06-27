@@ -7,3 +7,4 @@ This folder contains the following documents:
 - The R file "Analysis.r" reads in these two txt files and performs the analyses reported in the paper.
 
 For the R file, it is assumed that the following packages are installed: 'lme4', 'visreg' and 'rptR'
+If you have any questions or issues running the code, please do not hesitate to contact us via: l.s.molleman@uva.nl or lucasmolleman@gmail.com
